@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -5 N iacta | tee iacta
+tail -n 5 iacta | tee iacta
