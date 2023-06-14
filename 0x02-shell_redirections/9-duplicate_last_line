@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -6 iacta > iacta
+cat iacta > iacta
